@@ -6,13 +6,4 @@ This makes the back up harder to read although all images are exported to the re
 
 Feel free to download and open in Obsidian for best viewing!
 
-  _____
- /     \
-| () () |
- \  ^  /
-  |||||
-  |||||
-
-
-## CARLOS ENAMORADO ##
-## THE YEAR IS 2024 ##
+-- CARLOS ENAMORADO
