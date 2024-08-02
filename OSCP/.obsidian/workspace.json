@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "d9bba5f5f577a423",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa93844e531fa217",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07424e7540001313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOXES/HTB/2. BEGINNER TRACK/8. BLUE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85237d82ded0cfa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOXES/HTB/6. OTHER HTB BOXES/WINDOWS/2. DEVEL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61fc0ffa81e3559a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QUICK TOOL LOOKUP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f904ec137770c02f",
+    "type": "split",
+    "children": [
+      {
+        "id": "69146d43dad219db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8132a0babf2ea56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5be16b6c28dd43e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "smbclient",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d93f9919c2a0003",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f03e62ec4e4a4516",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f96b2cafd2c8dd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8e4ff9292adb0a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QUICK TOOL LOOKUP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25570aa85733196c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QUICK TOOL LOOKUP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "110d5f9987dc9efa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a75484e7be5dbcb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QUICK TOOL LOOKUP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "c8132a0babf2ea56",
+  "lastOpenFiles": [
+    "BOXES/HTB/6. OTHER HTB BOXES/WINDOWS/2. DEVEL.md",
+    "BOXES/HTB/2. BEGINNER TRACK/8. BLUE.md",
+    "QUICK TOOL LOOKUP.md",
+    "CVEs.md",
+    "KALI Setup.md",
+    "BOXES/HTB/3. STARTING POINT/1. STARTING POINT.md",
+    "BOXES/HTB/2. BEGINNER TRACK/1. LAME.md",
+    "OSCP Prep List.md",
+    "BOXES/HTB/1. HTB IMAGES/Pasted image 20240730141905.png",
+    "BOXES/HTB/6. OTHER HTB BOXES/WINDOWS/3. OPTIMUM.md",
+    "BOXES/HTB/6. OTHER HTB BOXES/WINDOWS/4. BASTARD.md",
+    "BOXES/HTB/6. OTHER HTB BOXES/LINUX/4. POPCORN.md",
+    "BOXES/HTB/6. OTHER HTB BOXES/LINUX/6. UNION.md",
+    "BOXES/HTB/1. HTB IMAGES/Pasted image 20240730201101.png",
+    "BOXES/HTB/1. HTB IMAGES/Pasted image 20240730201049.png",
+    "BOXES/HTB/1. HTB IMAGES/Pasted image 20240730200139.png",
+    "BOXES/HTB/1. HTB IMAGES/Pasted image 20240730195341.png",
+    "BOXES/HTB/1. HTB IMAGES/Pasted image 20240730195325.png",
+    "BOXES/HTB/1. HTB IMAGES/Pasted image 20240730195143.png",
+    "BOXES/HTB/1. HTB IMAGES/Pasted image 20240730195126.png",
+    "BOXES/HTB/1. HTB IMAGES/Pasted image 20240730194554.png",
+    "BOXES/HTB/1. HTB IMAGES/Pasted image 20240730194522.png",
+    "BOXES/HTB/6. OTHER HTB BOXES/LINUX/2. BANK.md",
+    "BOXES/HTB/6. OTHER HTB BOXES/LINUX/5. TENTEN.md",
+    "BOXES/HTB/6. OTHER HTB BOXES/LINUX/1. BEEP.md",
+    "Visuals.canvas",
+    "BOXES/HTB/6. OTHER HTB BOXES/LINUX/3. GREENHORN.md",
+    "BOXES/HTB/6. OTHER HTB BOXES/LINUX/4. POPCRN.md",
+    "BOXES/HTB/6. OTHER HTB BOXES/LINUX/Untitled.md",
+    "BOXES/HTB/6. OTHER HTB BOXES/WINDOWS/1. LEGACY.md",
+    "BOXES/HTB/5. TJ NULL PWKv3/LINUX/2. UPDOWN.md",
+    "BOXES/HTB/5. TJ NULL PWKv3/LINUX/1. BUSQUEDA.md",
+    "DEVEL.md",
+    "BOXES/HTB/6. OTHER HTB BOXES/WINDOWS",
+    "BOXES/HTB/6. OTHER HTB BOXES/LINUX",
+    "BOXES/HTB/3. STARTING POINT/TIER 2/4. TUNNEL.md",
+    "BOXES/HTB/3. STARTING POINT/TIER 3/2. INLCUDED.md",
+    "BOXES/HTB/3. STARTING POINT/TIER 3/3. MARKUP.md",
+    "BOXES/HTB/3. STARTING POINT/TIER 3/4. BASE.md",
+    "BOXES/HTB/3. STARTING POINT/TIER 3",
+    "BOXES/HTB/3. STARTING POINT/TIER 2",
+    "BOXES/HTB/3. STARTING POINT/TIER 1",
+    "BOXES/HTB/6. OTHER HTB BOXES",
+    "📦/HTB/OTHER HTB BOXES",
+    "OTHER HTB BOXES",
+    "BOXES/HTB/5. TJ NULL PWKv3/WINDOWS",
+    "BOXES/HTB/5. TJ NULL PWKv3/LINUX"
+  ]
+}
